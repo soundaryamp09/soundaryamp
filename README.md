@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **quantum computing and quantum machine learning**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:soundaryamp09@gmail.com</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soundarya mp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundarya mp" height="30" width="40" /></a>
 <a href="https://instagram.com/soundarya7159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soundarya7159" height="30" width="40" /></a>
