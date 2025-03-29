@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soundarya M P</h1>
 <h3 align="center">Year Two of B.Tech Odyssey in India</h3>
 
-- 🔭 I’m currently working on [lung cancer detection using machine learning and Deep learning](https://github.com/soundaryamp09/lung_cancer/tree/b3de1e836c6b17edf2ca1d8a12367b8b21e67331)
-
-- 🌱 I’m currently learning **quantum computing and quantum machine learning**
-
 - 📫 How to reach me **soundaryamp09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,3 +14,4 @@
 
 
 <p>my project details</p>
+
