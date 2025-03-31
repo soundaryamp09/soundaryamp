@@ -33,7 +33,7 @@
 <h4>🔄 Internet of Things (IoT)</h4>
 <ul>
   <li><strong>IoT-based Smart Home System</strong>: Includes smart irrigation, smart device integration, and automated controls.</li>
-  <li><strong>Deploying ML Models on Edge Devices</strong>: Deployed a car classification model on ESP32 boards.</li>
+  <li><strong>Deploying ML Models on Edge Devices</strong>: Deployed a Cirrhosis classification model on ESP32 boards.</li>
 </ul>
 
 <h4>🤖 Artificial Intelligence & Machine Learning</h4>
