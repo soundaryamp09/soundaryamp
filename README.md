@@ -47,3 +47,6 @@
   <li><strong>Adaptive Learning Platform</strong>: Developed a personalized learning system using transformers for enhanced student performance.</li>
   <li><strong>Retail Platform</strong>: Designed a mobile-friendly app connecting farmers to consumers for fresh produce delivery.</li>
 </ul>
+<ul>
+  <li>car race game using computer graphics: it simulates racing with animated cars and tracks. It uses graphics techniques for smooth motion and visual effects.</li>
+</ul>
